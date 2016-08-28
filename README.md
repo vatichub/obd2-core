@@ -19,7 +19,7 @@ OBD2-Core handles communication between the ELM327 OBD2 Buetooth Adaptor and ret
   * O2 Sensor Data
   * Throttle Position .. and many more
   
-2. Flexibility to add new OBD2 parameters which is simply handled through a configuration file provided during run-time.
+2. Flexibility to add new OBD2 parameters which is simply handled through a configuration file provided during app initialization time.
 
 ## Contact Us
 
