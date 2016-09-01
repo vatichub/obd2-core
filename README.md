@@ -8,7 +8,6 @@ OBD2-Core handles communication between the ELM327 OBD2 Buetooth Adaptor and ret
 
 ![Communication Diagram](https://docs.google.com/drawings/d/1oz0yKJFKG8y_SpQAMuDETk4OGJ6fPjAGFX6pWN9PJY8/pub?w=1254&h=526 "Communication Diagram")
 
-
 ## Key Features
 
 1. Supported retrieving
